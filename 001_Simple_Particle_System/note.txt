@@ -1,0 +1,10 @@
+Particle Attributes
+(1) initial position,
+(2) intitial velocity (both speed and direction),
+(3) initial size,
+(4) initial color,
+(5) initial transparency,
+(6) shape,
+(7) lifetime.
+
+" Emitter is the object that keeps track of all of the particles "
